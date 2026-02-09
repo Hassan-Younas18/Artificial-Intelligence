@@ -209,10 +209,10 @@ This project is part of an academic assignment. Feel free to use it for learning
 
 ## 👤 Author
 
-**[Hassan Younas]**
+**Hassan Younas**
 - Roll No: 21I-1788
 - Course: Artificial Intelligence
-- Institution: [FAST National University]
+- Institution: FAST National University
 
 ## 🙏 Acknowledgments
 
@@ -226,7 +226,7 @@ This project is part of an academic assignment. Feel free to use it for learning
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue in the repository or contact [p.hassan.ph@gmail.com]
+For questions or feedback, please open an issue in the repository or contact p.hassan.ph@gmail.com
 
 ---
 
