@@ -7,7 +7,6 @@ A Python implementation of the classic 8-puzzle problem solver using the Breadth
 - [The 8-Puzzle Problem](#the-8-puzzle-problem)
 - [Algorithm Overview](#algorithm-overview)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Example Output](#example-output)
 - [How It Works](#how-it-works)
@@ -59,26 +58,6 @@ Initial State:          Goal State:
 - **Solution Path Reconstruction**: Shows step-by-step moves from start to goal
 - **Performance Metrics**: Reports number of nodes explored
 - **Clear Visualization**: Displays board states in a readable format
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.6 or higher
-- No external dependencies required (uses only Python standard library)
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/8-puzzle-bfs-solver.git
-cd 8-puzzle-bfs-solver
-```
-
-2. Run the solver:
-```bash
-python eight_puzzle_bfs.py
-```
 
 ## 💻 Usage
 
