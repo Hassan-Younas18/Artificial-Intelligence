@@ -11,7 +11,6 @@ A Python implementation of the classic 8-puzzle problem solver using the Breadth
 - [Example Output](#example-output)
 - [How It Works](#how-it-works)
 - [Performance](#performance)
-- [License](#license)
 
 ## 🎯 About the Project
 
@@ -238,10 +237,6 @@ This implementation demonstrates:
 - Cycle detection in graphs
 - Optimal pathfinding
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -252,9 +247,7 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/8-puzzle-bfs-solver](https://github.com/yourusername/8-puzzle-bfs-solver)
+Your Name - p.hassan.ph@gmail.com
 
 ## 🙏 Acknowledgments
 
